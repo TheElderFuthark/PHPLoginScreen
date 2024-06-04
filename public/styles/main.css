@@ -1,0 +1,49 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    background-color: skyblue;
+    font-size: 14pt;
+    font-family: 
+        'Segoe UI', 
+        Tahoma, 
+        Geneva, 
+        Verdana, 
+        sans-serif;
+    color: white;
+}
+
+
+.FormLogin {
+    width: 50%;
+    height: 30%;    
+}
+
+
+.FormUser {
+    width: 300px;
+    height: 75px;
+    background-color: white;
+    color: black;
+}
+
+
+.FormPass {
+    width: 300px;
+    height: 75px;
+    background-color: white;
+    color: black;
+}
+
+
+.FormLoginButton {
+    width: 300px;
+    height: 75px;
+    border-style: solid;
+    border-radius: 0px;
+    border-color: white;
+}
+
+
+::placeholder {
+    color: black;
+}
